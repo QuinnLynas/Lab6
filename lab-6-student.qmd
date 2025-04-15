@@ -1,3 +1,9 @@
+---
+title: Lab 6
+author: Quinn Lynas
+format: gfm
+---
+
 ## The Data
 
 In this lab we're going look at the median weekly cost of childcare in
